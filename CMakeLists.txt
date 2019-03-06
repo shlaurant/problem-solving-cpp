@@ -3,4 +3,4 @@ project(problem_solving)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(problem_solving main.cpp leet367.cpp)
+add_executable(problem_solving main.cpp leetcode/leet367.cpp)
